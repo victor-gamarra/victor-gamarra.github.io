@@ -7,7 +7,7 @@ first_name: Victor J.
 middle_name:
 last_name: Gamarra
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Candidate in Economics at Cornell University.
+  PhD Student in Economics at WU Vienna (Wirtschaftsuniversität Wien).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
