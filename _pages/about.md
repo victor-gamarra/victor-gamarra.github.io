@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>vgamarra@wu.ac.at</p>
     <p>Vienna, Austria</p>
+    <p><a href="https://www.wu.ac.at/en/economics/people/gamarra-v" target="_blank">WU Profile</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

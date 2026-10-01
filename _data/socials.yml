@@ -2,6 +2,6 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
-email: vjg34@cornell.edu # your email address
+email: vgamarra@wu.ac.at # your email address
 scholar_userid: U3nodb0AAAAJ # your Google Scholar ID
 rss_icon: false # set to true to show RSS icon
